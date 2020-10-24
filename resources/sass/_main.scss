@@ -1,0 +1,75 @@
+body{
+  //margin: 0;
+  //height: auto;
+  display:flex;
+  flex-direction:column;
+}
+
+main{
+  //min-height: 500px;
+  //height:100%;
+  flex:1;
+
+  #navbutton{
+      float:right;
+      font-size: 18px
+  }
+
+  #noty_bar, #noty_type_warning           {
+    width: 800px !important;
+  }
+
+
+
+  .button{
+    color: white;
+    background-color: $tmgreen;
+  }
+
+  .uitlijnen  a {
+    margin: 15px;
+  }
+
+  .uitlijnen > a:first-child {
+    margin-left: 0;
+    width: 20%;
+  }
+
+}
+.scrol
+{
+    overflow-y: auto;
+    height: 500px;
+}
+.center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+
+}
+.size{
+    width: 30px;
+    height: 30px;
+}
+
+
+.table-responsive{
+  margin-bottom: 10px !important;
+}
+
+footer{
+  position:relative;
+  bottom:0;
+}
+
+//html{
+  //position: fixed;
+  //right: 0;
+  //left:0;
+
+
+//}
+
+
+
