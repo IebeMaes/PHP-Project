@@ -8,3 +8,11 @@
 -Stef Vleugels
 -Iebe Maes
 -Arno Breugelmans
+
+## Verantwoordelijkheden
+In dit project was ik verantwoordelijk voor:
+-Schrijven van de database migrations
+-Locaties CRUD
+-Personeelsfeesten CRUD
+-Profiel bijwerken
+-Deelnemers CRUD
